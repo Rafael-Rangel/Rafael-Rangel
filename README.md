@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Rangel :technologist:
 
 
-- 💻 Hoje trabalho com Front-end
+- 💻 Hoje trabalho com Front-End
 - 🌱 Estudando Node.Js
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Rangel&show_icons=true&theme=dracula)
